@@ -56,4 +56,4 @@
 ** 欒老師 (Prof. Luarn)
 ```diff
 
-- 目前程式中的 Webhook 皆為虛構的，請一定要更新為你自己的 Webhook才能正確執行。
+- 目前程式中的 Webhook 皆為虛構的，請一定要更新為你自己在 n8n 產生的 Webhook才能正確執行。
