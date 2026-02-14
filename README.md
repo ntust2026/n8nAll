@@ -55,5 +55,5 @@
 
 ** 欒老師 (Prof. Luarn)
 ```diff
-+ this will be highlighted in green
-- this will be highlighted in red
+
+- 目前程式中的 Webhook 皆為虛構的，請一定要更新為你自己的 Webhook。
