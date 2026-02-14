@@ -31,13 +31,6 @@
 2. **資料傳輸**：前端透過 **Webhook** 將資料傳送給對應的 n8n 工作流（`.json` 檔案）。
 3. **Webhook**：目前程式中的 Webhook 皆為虛構的，請一定要更新為你自己的 Webhook。
 4. **執行與回傳**：n8n 執行邏輯後，將結果傳回前端網頁顯示。
-+ this will be highlighted in green
-- this will be highlighted in red
-```diff
-+ this will be highlighted in green
-- this will be highlighted in red
-
-
 
 *重點檔案：* `rag_frontend.html` / `rss_news.html` / `fb_post.html` / `nanoB_...html` 系列。
 
